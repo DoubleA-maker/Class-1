@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+p{
+  font-family: Impact, Charcoal, sans-serif;
+  color: yellowgreen;
+}
+h1{
+  font-family: Impact, Charcoal, sans-serif;
+  color: brown;
+}
+#image1{
+  width: 50%;
+    border: 5px solid black;
+  padding: 5px
+}
+#image2{
+  width:50%;
+    border: 5px solid black;
+  padding: 5px
+}
